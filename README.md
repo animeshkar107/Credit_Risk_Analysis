@@ -10,39 +10,6 @@ This README introduces the project, explains the analytical approach and
 summarizes the main findings. It also helps the reviewer identify the
 purpose of each submitted deliverable.
 
-## Project deliverables
-
-  -----------------------------------------------------------------------
-  File                                Description
-  ----------------------------------- -----------------------------------
-  `01_Project_Report.pdf`             Detailed report covering the
-                                      business problem, methodology,
-                                      findings, recommendations and
-                                      limitations.
-
-  `02_Excel_Analysis.xlsx`            Cleaned data, calculations,
-                                      PivotTables, charts, KPIs and the
-                                      Excel dashboard.
-
-  `03_SQL_Queries.sql`                SQL queries used to investigate
-                                      customer segments, repayment
-                                      behaviour and observed defaults.
-
-  `04_Python_EDA.ipynb`               Python notebook containing data
-                                      validation, exploratory analysis,
-                                      visualizations and interpretations.
-
-  `05_PowerBI_Dashboard.pbix`         Interactive Power BI report with
-                                      three pages, measures, calculated
-                                      columns, slicers and tooltips.
-
-  `06_Presentation.pptx`              Presentation of the business
-                                      problem, methodology, key findings,
-                                      recommendations and limitations.
-
-  `07_ReadMe.pdf`                     PDF README and guide to the
-                                      submitted project files.
-  -----------------------------------------------------------------------
 
 ## 1. Project Title
 
@@ -62,11 +29,12 @@ not build or deploy a production credit-scoring system.
 
 ## 3. Business Objective
 
-**Primary objective:** analyse historical default outcomes and repayment
-behaviour, compare observed default rates across customer segments, and
-present evidence-based findings through Excel, SQL, Python and Power BI.
-The analysis aims to support portfolio monitoring and further
-investigation, not to make automated lending decisions.
+**Primary objective:** 1. Which customer segments have higher default rates?
+2. Does credit limit relate to default behaviour?
+3. How does repayment behaviour affect default rates?
+4. Which age groups show higher risk?
+5. How do demographic segments differ in observed default rates?
+6. Which customer groups represent the greatest potential credit risk? 
 
 ## 4. Stakeholders
 
